@@ -3,8 +3,8 @@
 // const sum = add(4, -2)
 //
 // console.log(sum)
-const chalk = require('chalk')
-const getNotes = require('./notes.js')
+//const chalk = require('chalk')
+//const getNotes = require('./notes.js')
 
 const command = process.argv[2]
 
